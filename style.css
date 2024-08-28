@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(234, 175, 99);
+}
+.container{
+    width: 100%;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    
+   
+}
+img{
+    width: 100%;
+}
+.card{
+
+    width: 30%;
+    background-color: rgb(253, 242, 203);
+    margin-top: 100px;
+    display: inline-block;
+  margin-right: 6px;
+  padding: 4px;
+  
+}
+.text span{
+display:inline-block;
+}
